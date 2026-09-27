@@ -42,7 +42,7 @@ The dashboard provides analysis of:
 
 ## Dashboard Preview
 
-[Retail Sales, Revenue & Performance Analytics Dashboard](Dashboard.png)
+![Retail Sales, Revenue & Performance Analytics Dashboard](./Dashboard/Dashboard.png)
 
 ## Project Files
 
