@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-An end-to-end retail sales analytics project using Excel, SQL, and Power BI to clean, analyze, and visualize sales transaction data and generate meaningful business insights.
+An end-to-end retail sales analytics project using Excel, SQL, and Power BI to clean, analyze, and visualize sales transaction data and generate business insights.
 
 ## Tools & Technologies
 
@@ -14,11 +14,11 @@ An end-to-end retail sales analytics project using Excel, SQL, and Power BI to c
 
 ## Project Workflow
 
-1. Cleaned and prepared the retail sales data using Excel and Power Query.
-2. Performed sales and revenue analysis using SQL.
-3. Created analytical measures and KPIs.
-4. Built an interactive Power BI dashboard.
-5. Analyzed revenue trends, product performance, store performance, sales patterns, and order metrics.
+1. Cleaned and prepared the retail sales transaction data using Excel and Power Query.
+2. Performed SQL-based analysis to calculate revenue, transactions, sales by category, store performance, product performance, and sales trends.
+3. Created Power BI measures for key business KPIs.
+4. Built an interactive Power BI dashboard to visualize sales and revenue performance.
+5. Used slicers and interactive visuals to analyze the data across stores, product categories, and months.
 
 ## Key KPIs
 
@@ -29,9 +29,9 @@ An end-to-end retail sales analytics project using Excel, SQL, and Power BI to c
 
 ## Dashboard Analysis
 
-The dashboard provides analysis of:
+The Power BI dashboard provides interactive analysis of:
 
-- Monthly Revenue
+- Monthly Revenue Trends
 - Revenue by Store
 - Revenue by Product Category
 - Top 10 Products by Revenue
